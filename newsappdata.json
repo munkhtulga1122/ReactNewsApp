@@ -1,0 +1,95 @@
+{
+  "users": {
+    "Pk948yJmGwhm1CjIUPhhoCi1vtJ3" : {
+      "firstName" : "monhtulgaa",
+      "lastLoggedIn" : 1516696368947,
+      "lastName" : "sainbuyan",
+      "signedUp" : 1516695063138
+    }
+  },
+  "favourites": {
+  },
+  "category": [
+    {
+      "id": 1,
+      "title": "Улс төр"
+    },
+    {
+      "id": 2,
+      "title": "Технологи"
+    },
+    {
+      "id": 3,
+      "title": "Дотоод мэдээ"
+    },
+    {
+      "id": 4,
+      "title": "Спорт"
+    }
+  ],
+  "news" : [
+    {
+      "id": 1,
+      "slug": "article-one",
+      "title": "Улс төрийн мэдээ 1",
+      "body": "Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 Мэдээ 1 ",
+      "category": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-native-starter-app.appspot.com/o/image-1.jpg?alt=media&token=9f7c839b-2d40-4660-a2a0-bf6c2f64a2e5",
+      "ingredients": [
+        "Сэтгэгдэл 1",
+        "Сэтгэгдэл 2",
+        "Сэтгэгдэл 3",
+        "Сэтгэгдэл 4",
+        "Сэтгэгдэл 5",
+        "Сэтгэгдэл 6"
+      ],
+      "method": [
+        "iste natus error sit voluptatem accusantium doloremque laudantium",
+        "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+        "sed quia non numquam eius modi tempora incidunt ut labore"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "article-one",
+      "title": "Дотоод мэдээ 2",
+      "body": "Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 Мэдээ 2 ",
+      "category": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-native-starter-app.appspot.com/o/image-1.jpg?alt=media&token=9f7c839b-2d40-4660-a2a0-bf6c2f64a2e5",
+      "ingredients": [
+        "Сэтгэгдэл 1",
+        "Сэтгэгдэл 2",
+        "Сэтгэгдэл 3",
+        "Сэтгэгдэл 4",
+        "Сэтгэгдэл 5",
+        "Сэтгэгдэл 6"
+      ],
+      "method": [
+        "iste natus error sit voluptatem accusantium doloremque laudantium",
+        "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+        "sed quia non numquam eius modi tempora incidunt ut labore"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "article-one",
+      "title": "Дотоод мэдээ 2",
+      "body": "Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3 Мэдээ 3",
+      "category": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-native-starter-app.appspot.com/o/image-1.jpg?alt=media&token=9f7c839b-2d40-4660-a2a0-bf6c2f64a2e5",
+      "ingredients": [
+        "Сэтгэгдэл 1",
+        "Сэтгэгдэл 2",
+        "Сэтгэгдэл 3",
+        "Сэтгэгдэл 4",
+        "Сэтгэгдэл 5",
+        "Сэтгэгдэл 6"
+      ],
+      "method": [
+        "iste natus error sit voluptatem accusantium doloremque laudantium",
+        "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+        "sed quia non numquam eius modi tempora incidunt ut labore"
+      ]
+    }
+  ]
+}
